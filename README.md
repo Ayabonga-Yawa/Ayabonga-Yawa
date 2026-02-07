@@ -4,16 +4,17 @@
 
 ![17704783319117495054802584024328](https://github.com/user-attachments/assets/50f706ef-ad83-4389-a2dd-aa493d88ab0a)
 
--I'm a junior Software Developer, Highly passionate about building scalable Web, Desktop and Mobile Applications.
+- I'm a junior Software Developer, Highly passionate about building scalable Web, Desktop and Mobile Applications.
 
 🛠Tech stack:
-- Backend
+
+## Backend
 - Java, JavaScript, Python, Php
 
-- Front-end
+## Front-end
 - HTML, CSS, Vue.Js
 
-- Tools
+## Tools
 - Git, Linux
 
 🌱Learning Journey:
