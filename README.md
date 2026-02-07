@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Ayabonga Yawa
 
-<!--
-**Ayabonga-Yawa/Ayabonga-Yawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⭐️About me:
 
-Here are some ideas to get you started:
+![17704783319117495054802584024328](https://github.com/user-attachments/assets/50f706ef-ad83-4389-a2dd-aa493d88ab0a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-I'm a junior Software Developer, Highly passionate about building scalable Web, Desktop and Mobile Applications.
+
+🛠Tech stack:
+- Backend
+- Java, JavaScript, Python, Php
+
+- Front-end
+- HTML, CSS, Vue.Js
+
+- Tools
+- Git, Linux
+
+🌱Learning Journey:
+- Currently deepening my knowledge in Software and web development, Software testing and Cybersecurity.
+
+👥️Collaboration Goals:
+- Eager to collaborate on projects that foster both personal and organizational growth, bringing forth diverse and innovative perspectives to the table to leave a mark in the world.
+
+
+
